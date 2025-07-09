@@ -22,4 +22,3 @@ let person: { name: string, age: number, adult?: boolean } = {
 function sum(x: number, y: number): number {
     return x + y;
 }
-
